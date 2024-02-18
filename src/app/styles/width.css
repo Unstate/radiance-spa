@@ -1,0 +1,5 @@
+:root {
+  --max-width-desktop: 1920px;
+  --max-width-header-desktop:1680px;
+  --max-width-mobile: 767px;
+}

@@ -1,0 +1,16 @@
+@import './colors.css';
+@import './width.css';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  color: var(--base-black);
+  border:none;
+}
+
+body {
+  background-color: var(--base-bg);
+}
